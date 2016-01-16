@@ -3,7 +3,7 @@ net-analyzer/zabbix agent frontend mysql server snmp
 app-eselect/eselect-php apache2
 
 media-libs/gd png
-net-dns/bind dlz
+net-dns/bind -ldap
 app-arch/pigz symlink
 app-arch/lbzip2 symlink
 sys-process/lsof rpc #rkhunter
