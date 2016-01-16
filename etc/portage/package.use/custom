@@ -1,0 +1,10 @@
+dev-lang/php apache2 gd mysql mysqli pdo cgi pam ssl xml sysvipc bcmath xmlreader xmlwriter sockets sqlite curl zip
+net-analyzer/zabbix agent frontend mysql server snmp
+app-eselect/eselect-php apache2
+
+media-libs/gd png
+net-dns/bind dlz
+app-arch/pigz symlink
+app-arch/lbzip2 symlink
+sys-process/lsof rpc #rkhunter
+dev-lang/perl ithreads
